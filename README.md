@@ -3,7 +3,9 @@
 ![PCB top view](TopPCB.png)
 
 A completly ~~overkill~~ sound and smart fan controller able to :
-- Read 3 NTC 10K sensor (temperature sensor)
+- use RP2040
+- have USB-C
+- 3x NTC 10K sensor (temperature sensor)
 - 2x separated buses for DS18B20 (more temperature sensor)
 - 2x separated WS2812 buses (RGB led)
 - E-Ink display support
