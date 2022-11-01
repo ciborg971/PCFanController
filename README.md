@@ -11,3 +11,5 @@ A completly ~~overkill~~ sound and smart fan controller able to :
 - E-Ink display support
 - 7x PWM fan support with tachymeter reading
 - 2x 12 volt PWM output (Up to 20A per port)
+- 2.5 inch hdd dimension (100 x 50 mm)
+- M2 hole (between hole 85.25 x 38 mm)
